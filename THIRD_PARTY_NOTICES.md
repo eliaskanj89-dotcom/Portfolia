@@ -1,0 +1,2 @@
+# Third-party notices
+Portfolia uses or references open-source projects documented in OPEN_SOURCE_STACK.md. Portfolio Performance is licensed under EPL-1.0. Supabase components have their respective Apache-2.0/MIT licensing, yahoo-finance2 is MIT, PyXIRR is Unlicense, and Playwright is Apache-2.0. Portfolia is not endorsed by these projects.
