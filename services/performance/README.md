@@ -1,0 +1,2 @@
+# Portfolia performance service
+Uses **PyXIRR** (Unlicense) for robust XIRR/IRR/NPV. TWRR remains deterministic canonical ledger logic and should be validated against Portfolio Performance fixtures before production claims.
